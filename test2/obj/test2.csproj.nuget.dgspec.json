@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EslaM\\Desktop\\test\\test\\test.csproj": {}
+    "C:\\Users\\EslaM\\Desktop\\test\\test2\\test2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EslaM\\Desktop\\test\\test\\test.csproj": {
+    "C:\\Users\\EslaM\\Desktop\\test\\test2\\test2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EslaM\\Desktop\\test\\test\\test.csproj",
-        "projectName": "test",
-        "projectPath": "C:\\Users\\EslaM\\Desktop\\test\\test\\test.csproj",
+        "projectUniqueName": "C:\\Users\\EslaM\\Desktop\\test\\test2\\test2.csproj",
+        "projectName": "test2",
+        "projectPath": "C:\\Users\\EslaM\\Desktop\\test\\test2\\test2.csproj",
         "packagesPath": "C:\\Users\\EslaM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EslaM\\Desktop\\test\\test\\obj\\",
+        "outputPath": "C:\\Users\\EslaM\\Desktop\\test\\test2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EslaM\\AppData\\Roaming\\NuGet\\NuGet.Config"
