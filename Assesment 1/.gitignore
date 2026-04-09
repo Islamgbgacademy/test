@@ -16,3 +16,10 @@
 *.tmp
 *.temp
 *.cache
+*.dll
+*.pdb
+*.exe
+*.app
+*.apk
+*.ipa
+*.db
