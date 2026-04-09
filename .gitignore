@@ -10,8 +10,6 @@
 # IDE
 .vs/
 .vscode/
-*.json
-*assemblyinfo.cs
 
 # Logs and temp files
 *.log
