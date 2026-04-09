@@ -1,0 +1,20 @@
+# Build output
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# IDE
+.vs/
+.vscode/
+*.json
+*assemblyinfo.cs
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.cache
