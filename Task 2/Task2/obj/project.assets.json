@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EslaM\\Desktop\\Assesment 1\\MyApp\\MyApp.csproj",
-      "projectName": "MyApp",
-      "projectPath": "C:\\Users\\EslaM\\Desktop\\Assesment 1\\MyApp\\MyApp.csproj",
+      "projectUniqueName": "C:\\Users\\EslaM\\Desktop\\Task 2\\Task2\\Task2.csproj",
+      "projectName": "Task2",
+      "projectPath": "C:\\Users\\EslaM\\Desktop\\Task 2\\Task2\\Task2.csproj",
       "packagesPath": "C:\\Users\\EslaM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EslaM\\Desktop\\Assesment 1\\MyApp\\obj\\",
+      "outputPath": "C:\\Users\\EslaM\\Desktop\\Task 2\\Task2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\EslaM\\AppData\\Roaming\\NuGet\\NuGet.Config"
